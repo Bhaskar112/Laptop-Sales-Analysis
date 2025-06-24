@@ -1,7 +1,7 @@
 # Laptop Sales Data Analysis
 ## Problem Statement:
 
-You can click on the following link to see problem statement document: https://drive.google.com/file/d/1SEPq54T7cVfABizScAPLxzSuQQZxYBuW/view?usp=drivesdk
+You can find the problem statement document in the following document: https://drive.google.com/file/d/1SEPq54T7cVfABizScAPLxzSuQQZxYBuW/view?usp=drivesdk
 
 ## Data set:
 You can find the data set in the given link: https://drive.google.com/file/d/12h02tgyah-Rr_A0_2Bo291jU5iGo_gGU/view?usp=drivesdk
